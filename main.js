@@ -43,5 +43,5 @@ document.querySelectorAll("#email-Form").forEach(input => {
   document.getElementById('ConfirEmail').addEventListener('input', function() {
       document.getElementById('ConfirEmail').style.display = 'none'; 
   })
-
+  
 });
